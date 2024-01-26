@@ -1,0 +1,35 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 159.203.43.79
+PING 159.203.43.79 (159.203.43.79) 56(84) bytes of data.
+64 bytes from 159.203.43.79: icmp_seq=1 ttl=64 time=0.036 ms
+64 bytes from 159.203.43.79: icmp_seq=2 ttl=64 time=0.067 ms
+64 bytes from 159.203.43.79: icmp_seq=3 ttl=64 time=0.065 ms
+64 bytes from 159.203.43.79: icmp_seq=4 ttl=64 time=0.064 ms
+64 bytes from 159.203.43.79: icmp_seq=5 ttl=64 time=0.071 ms
+64 bytes from 159.203.43.79: icmp_seq=6 ttl=64 time=0.070 ms
+64 bytes from 159.203.43.79: icmp_seq=7 ttl=64 time=0.066 ms
+64 bytes from 159.203.43.79: icmp_seq=8 ttl=64 time=0.068 ms
+64 bytes from 159.203.43.79: icmp_seq=9 ttl=64 time=0.074 ms
+64 bytes from 159.203.43.79: icmp_seq=10 ttl=64 time=0.064 ms
+64 bytes from 159.203.43.79: icmp_seq=11 ttl=64 time=0.086 ms
+64 bytes from 159.203.43.79: icmp_seq=12 ttl=64 time=0.072 ms
+64 bytes from 159.203.43.79: icmp_seq=13 ttl=64 time=0.083 ms
+64 bytes from 159.203.43.79: icmp_seq=14 ttl=64 time=0.066 ms
+64 bytes from 159.203.43.79: icmp_seq=15 ttl=64 time=0.058 ms
+^C
+--- 159.203.43.79 ping statistics ---
+15 packets transmitted, 15 received, 0% packet loss, time 14327ms
+rtt min/avg/max/mdev = 0.036/0.067/0.086/0.010 ms
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 159.203.43.79 -w 10
+PING 159.203.43.79 (159.203.43.79) 56(84) bytes of data.
+64 bytes from 159.203.43.79: icmp_seq=1 ttl=64 time=0.041 ms
+64 bytes from 159.203.43.79: icmp_seq=2 ttl=64 time=0.074 ms
+64 bytes from 159.203.43.79: icmp_seq=3 ttl=64 time=0.060 ms
+64 bytes from 159.203.43.79: icmp_seq=4 ttl=64 time=0.072 ms
+64 bytes from 159.203.43.79: icmp_seq=5 ttl=64 time=0.070 ms
+64 bytes from 159.203.43.79: icmp_seq=6 ttl=64 time=0.068 ms
+64 bytes from 159.203.43.79: icmp_seq=7 ttl=64 time=0.067 ms
+64 bytes from 159.203.43.79: icmp_seq=8 ttl=64 time=0.069 ms
+^C
+--- 159.203.43.79 ping statistics ---
+8 packets transmitted, 8 received, 0% packet loss, time 7147ms
+rtt min/avg/max/mdev = 0.041/0.065/0.074/0.009 ms

@@ -1,0 +1,53 @@
+Number 1:
+IP addresses for rogers.ca
+
+Our DNS servers responded with these IP addresses when we queried it for the domain rogers.ca. Some DNS servers may return different IP addresses based on your location.
+	IP address	Type	Hosted by	Location
+142.146.96.11
+	IPv4	Hosted by Akamai Technologies, Inc. Akamai Technologies, Inc.	United States of America
+
+Number 2:
+IP addresses for td.com
+
+Our DNS servers responded with these IP addresses when we queried it for the domain td.com. Some DNS servers may return different IP addresses based on your location.
+	IP address	Type	Hosted by	Location
+23.216.149.217
+	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+23.216.149.205
+	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+
+Number 3:
+IP addresses for linkedin.com
+
+Our DNS servers responded with these IP addresses when we queried it for the domain linkedin.com. Some DNS servers may return different IP addresses based on your location.
+	IP address	Type	Hosted by	Location
+13.107.42.14
+	IPv4	Hosted by Microsoft Corporation Microsoft Corporation	United States of America
+2620:1ec:21::14
+	IPv6	Hosted by Microsoft Corporation Microsoft Corporation	United States of America
+
+Number 4:
+IP addresses for twitch.com
+
+Our DNS servers responded with these IP addresses when we queried it for the domain twitch.com. Some DNS servers may return different IP addresses based on your location.
+	IP address	Type	Hosted by	Location
+54.69.113.251
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+52.39.198.233
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+52.11.61.174
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+
+Number 5:
+IP addresses for presto.ca
+
+Our DNS servers responded with these IP addresses when we queried it for the domain presto.ca. Some DNS servers may return different IP addresses based on your location.
+	IP address	Type	Hosted by	Location
+65.8.161.95
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+65.8.161.24
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+65.8.161.90
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+65.8.161.112
+	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America

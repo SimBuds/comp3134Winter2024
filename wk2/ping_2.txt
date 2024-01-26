@@ -1,0 +1,13 @@
+Casey@AMD-Casey MINGW64 ~/OneDrive/Documents/Semester 6/COMP3134 - Introduction to Cyber Security/Labs/comp3134Winter2024/wk2 (main)
+$ ping 159.203.43.79
+
+Pinging 159.203.43.79 with 32 bytes of data:
+Reply from 159.203.43.79: bytes=32 time=16ms TTL=56
+Reply from 159.203.43.79: bytes=32 time=10ms TTL=56
+Reply from 159.203.43.79: bytes=32 time=13ms TTL=56
+Reply from 159.203.43.79: bytes=32 time=12ms TTL=56
+
+Ping statistics for 159.203.43.79:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 16ms, Average = 12ms
