@@ -1,0 +1,41 @@
+Domain Registration and Hosting Information:
+
+Domain Name: spotify.com
+Registry Domain ID: 422131614_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.abion.com
+Registrar URL: www.abion.com
+Updated Date: 2021-08-02T18:37:37Z
+Creation Date: 2006-04-23T09:07:50Z
+Registrar Registration Expiration Date: 2030-04-23T09:07:50Z
+Registrar: Abion AB
+Registrar IANA ID: 73
+Registrar Abuse Contact Email: email@abion.com
+Registrar Abuse Contact Phone: +46.317202000
+Registrant Organization: Spotify AB
+Registrant State/Province: 
+Registrant Country: SE
+Name Server: ns-cloud-a3.googledomains.com
+Name Server: dns3.p07.nsone.net
+Name Server: ns-cloud-a1.googledomains.com
+Name Server: dns4.p07.nsone.net
+Name Server: ns-cloud-a4.googledomains.com
+Name Server: dns1.p07.nsone.net
+Name Server: dns2.p07.nsone.net
+Name Server: ns-cloud-a2.googledomains.com
+It is hosted by: Google LLC
+
+WHOIS information: Click here
+
+Organization name: Google Cloud
+
+IP address: 35.186.224.25
+
+AS(autonomous system) number and organization: AS15169 Google LLC
+
+AS name: GOOGLE
+
+Reverse DNS of the IP: 25.224.186.35.bc.googleusercontent.com
+
+City: Kansas City
+
+Country: United States

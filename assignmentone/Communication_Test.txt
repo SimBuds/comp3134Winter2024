@@ -1,0 +1,15 @@
+Server Communication Test:
+
+Casey@AMD-Casey MINGW64 ~/OneDrive/Documents/Semester 6/COMP3134 - Introduction to Cyber Security/Labs/comp3134Winter2024 (main)
+$ ping spotify.com
+
+Pinging spotify.com [2600:1901:1:c36::] with 32 bytes of data:
+Reply from 2600:1901:1:c36::: time=9ms 
+Reply from 2600:1901:1:c36::: time=11ms 
+Reply from 2600:1901:1:c36::: time=9ms 
+Reply from 2600:1901:1:c36::: time=11ms 
+
+Ping statistics for 2600:1901:1:c36:::
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 11ms, Average = 10ms
